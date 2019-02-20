@@ -32,6 +32,9 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
 
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
+
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
